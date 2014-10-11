@@ -1,0 +1,20 @@
+{
+    "name": "jauma/users",
+    "description": "Users manage",
+    "authors": [
+        {
+            "name": "jauma",
+            "email": "hola@juanmanavarro.es"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jauma\\Users": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
