@@ -11,6 +11,9 @@
         "php": ">=5.4.0",
         "illuminate/support": "4.2.*"
     },
+    "require-dev": {
+        "codeception/codeception": "*"
+    },
     "autoload": {
         "psr-0": {
             "Jauma\\Users": "src/"
